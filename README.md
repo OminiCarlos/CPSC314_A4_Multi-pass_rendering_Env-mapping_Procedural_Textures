@@ -51,4 +51,5 @@ Explore shadows, reflections, and animated effects!
 🎥 Demo
 
 Watch the video walkthrough (Click the picture):
-[![CPSC 314 A4 Demo-封面](https://youtu.be/taLj9u7U3R0)
+[![CPSC 314 A4 Demo-封面](https://github.com/user-attachments/assets/bb9a319a-f88c-44e5-9704-e7e5e5fc274e)](https://youtu.be/taLj9u7U3R0)
+
